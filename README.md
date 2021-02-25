@@ -74,7 +74,7 @@ Number of frames per video and tools involved:
 
 Due to github limitations, the datasets are divided into several links, which are shown below.
 
-# Links for actions datasets
+# Links for actions dataset:
 
 [Action Dataset Parte 01](https://github.com/mazamorahdez/Industrial-Actions-Dataset-Part01)
 
