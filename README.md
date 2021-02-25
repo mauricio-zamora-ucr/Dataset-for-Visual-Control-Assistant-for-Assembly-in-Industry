@@ -34,7 +34,7 @@ Socket: 1 000.
 Washer: 1 300.
 Adjustable wrench: 1 350.
 Allen wrench: 1 300.
-Combination wrench: 950.
+[Combination wrench: 950.]
 
 Due to github limitations, the datasets are divided into several links, which are shown below.
 
