@@ -10,7 +10,8 @@ https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
 
 - Format: .jpg
 - Total number of images: 27 150.
-- Number of images per class:
+
+Number of images per class:
 
 - Bolt: 1 450.
 - Clamp: 1 100.
@@ -52,7 +53,8 @@ This dataset contains videos of an operator performing the manual assembly proce
 # Properties of actions dataset:
 
 - Resolution: 640x360 px
-- Number of frames per video and tools involved:
+
+Number of frames per video and tools involved:
 
 - Seq001: 6 042. Wrench, screwdriver. 
 - Seq002: 2 752. Pliers, wrench. 
