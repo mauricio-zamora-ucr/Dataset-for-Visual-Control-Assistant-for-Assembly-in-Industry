@@ -6,7 +6,7 @@ This dataset is a compilation of images that contain tools such as drills, hamme
 
 https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
 
-# Properties of images dataset:
+# Properties of images dataset
 
 - Format: .jpg
 - Total number of images: 27 150.
@@ -50,7 +50,7 @@ Due to github limitations, the datasets are divided into several links, which ar
 
 This dataset contains videos of an operator performing the manual assembly process, along with the corresponding separation in frames for each one of the videos. It is made up of 15 sequences in total.
 
-# Properties of actions dataset:
+# Properties of actions dataset
 
 - Resolution: 640x360 px
 
@@ -74,7 +74,7 @@ Number of frames per video and tools involved:
 
 Due to github limitations, the datasets are divided into several links, which are shown below.
 
-# Links for actions dataset:
+# Links for actions dataset
 
 [Action Dataset Parte 01](https://github.com/mazamorahdez/Industrial-Actions-Dataset-Part01)
 
